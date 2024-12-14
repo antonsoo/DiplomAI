@@ -61,7 +61,7 @@ Over time, we plan to:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/DiplomAI.git
+   git clone https://github.com/antonsoo/DiplomAI.git
    cd DiplomAI
    ```
 
